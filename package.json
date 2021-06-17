@@ -1,0 +1,11 @@
+{
+  "name": "@gridsome/transformer-images",
+  "version": "1.0.0",
+  "description": "Imagge transformer for Gridsome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "osvaldom",
+  "license": "MIT"
+}
